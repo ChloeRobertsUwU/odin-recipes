@@ -1,0 +1,14 @@
+.header {
+    font-family: Helvetica, "Times New Roman", serif;
+    text-align: center;
+}
+
+.list{
+    font-family: "Comic Sans", sans-serif;
+    font-size: 30px;
+}
+
+.image{
+    height: auto;
+    width: 500px;
+}
